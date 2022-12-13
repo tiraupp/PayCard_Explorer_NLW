@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
 
-No VSCode executar o comando para abrir corretamente a página: npm rum dev
+No VSCode executar o comando a seguir para abrir corretamente a página: npm rum dev
 
 ## 🔖 Layout
 
